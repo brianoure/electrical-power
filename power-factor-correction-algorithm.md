@@ -1,5 +1,5 @@
 # Electrical Power Factor Correction Algorithm
-Ideally a purely resistive load produces the least amount of energy losses in a power network. Capacitors have negative reactances whereas inductors have positive reactances. An algebraic sum of the two would lead to all network reactances cancelling out leaving only the resistances.
+Ideally, a purely resistive load produces the least amount of energy losses in a power network. Capacitors have negative reactances whereas inductors have positive reactances. An algebraic sum of the two would lead to all network reactances cancelling out leaving only the resistances.
 
 This means that if an inductive load is detected, the capacitor banks are engaged. Also if a capactivie load is present, the reactor transformers (inductors) are called into action.
 
